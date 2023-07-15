@@ -1,0 +1,54 @@
+5357386246603485|06|2025|540
+{'validation_feedback': 'Your card was declined.'}
+5357386240457078|12|2025|311
+{'validation_feedback': 'Your card was declined.'}
+5357386201173474|02|2027|863
+{'validation_feedback': 'Your card was declined.'}
+5357386288852412|11|2025|620
+{'validation_feedback': 'Your card was declined.'}
+5357386207857401|05|2025|830
+{'validation_feedback': 'Your card was declined.'}
+5357386202383007|09|2026|272
+{'validation_feedback': 'Your card was declined.'}
+5357386288211882|09|2027|806
+{'validation_feedback': 'Your card was declined.'}
+5357386261273537|10|2025|823
+{'validation_feedback': 'Your card was declined.'}
+5357386225202242|02|2025|140
+{'validation_feedback': 'Your card was declined.'}
+5357386212100631|01|2025|062
+{'validation_feedback': 'Your card was declined.'}
+5357386233488627|06|2025|727
+{'validation_feedback': 'Your card was declined.'}
+5357386281607011|02|2028|226
+{'validation_feedback': 'Your card was declined.'}
+5357386275585652|05|2026|871
+{'validation_feedback': 'Your card was declined.'}
+5357386266051474|06|2028|248
+{'validation_feedback': 'Your card was declined.'}
+5357386244267333|06|2026|015
+{'validation_feedback': 'Your card was declined.'}
+5357386257563487|08|2028|226
+{'validation_feedback': 'Your card was declined.'}
+5357386227286458|08|2026|250
+{'validation_feedback': 'Your card was declined.'}
+5357386223480626|11|2028|652
+{'validation_feedback': 'Your card was declined.'}
+5357386200681683|12|2025|482
+{'validation_feedback': 'Your card was declined.'}
+5357386235277648|01|2027|562
+{'validation_feedback': 'Your card was declined.'}
+5357386221463632|10|2028|276
+{'validation_feedback': 'Your card was declined.'}
+5357386256727604|08|2027|676
+{'validation_feedback': 'Your card was declined.'}
+5357386275207430|03|2026|363
+{'validation_feedback': 'Your card was declined.'}
+5357386233774851|10|2028|468
+{'validation_feedback': 'Your card was declined.'}
+5357386222432172|11|2027|748
+{'validation_feedback': 'Your card was declined.'}
+5357386238308101|01|2025|744
+{'validation_feedback': 'Your card was declined.'}
+5357386224128885|03|2027|520
+{'validation_feedback': 'Your card was declined.'}
