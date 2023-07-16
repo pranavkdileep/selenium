@@ -1,0 +1,10 @@
+import pyautogui
+import time
+
+pyautogui.moveTo(218, 68)
+pyautogui.click()
+pyautogui.typewrite("https://checkout.stripe.com/c/pay/cs_live_a1n3ykyv3sxc4DhgFgc5L8wLvv5eyqTBnmNWoxR3Lmoxhotes82hMkm5Dn#fidkdWxOYHwnPyd1blppbHNgWk59aEZ9X0tXT2tXRGtLREJhd11MRmE2ZCcpJ2hsYXYnP34nYnBsYSc%2FJzdgNzA9MTdjKGZgMWEoMTM9MChnZD0wKDUyPD1mYzY3PDc1MDxnNmNkNicpJ2hwbGEnPydgZGFkPWM1Yyg8M2MzKDFmMmQoPDQ1NCg1MWQwNDBnM2c1M2M2MWA9NTAnKSd2bGEnPyc2YzA2PWBnZCg2Mzc8KDE2Z2QoZGMxZygzPWNhY2E0YDw2NjVnMmY0Y2YneCknZ2BxZHYnP15YKSdpZHxqcHFRfHVgJz8ndmxrYmlgWmxxYGgnKSd3YGNgd3dgd0p3bGJsayc%2FJ21xcXV2PyoqcXd8bWRmbmhgK2ZqaCd4JSUl")
+time.sleep(3)
+pyautogui.moveTo(click_x, click_y)
+pyautogui.click()
+
