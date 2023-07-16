@@ -25,8 +25,6 @@ def stripe(cc,mes,ano,cvv):
     json_output = json.loads(command_output)
     payment_method_id = json_output["id"]
     print(payment_method_id)
-    with open(file_path,'w') as file:
-      file.write(str(cc))
     return payment_method_id
 
 # stripe(5357386252340543,'09',2026,523)
